@@ -1,7 +1,7 @@
 # Product Search with LangChain and Llama2
 
 ## Overview
-Leverage Langchain and quantized open-source Llama2 to perform product similarity search on a single T4 GPU.
+This project leverages Langchain, (quantized) open-source Llama2 and retrieval-augmented generation (RAG) to perform product similarity search on a single T4 GPU.
 
 ## Method
 - **Model:** Meta's LLama2 on HuggingFace, 4-bit quantization and LoRA 
