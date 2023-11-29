@@ -20,7 +20,7 @@ Once all are succesfully loaded, this is the interface of the app:
 
 <img src="screenshots/llm-search.png" alt="llm-search" width="600"/>
 
-The question box is for user input:
+Type the query in the query box:
 
 <img src="screenshots/llm-search-query.png" alt="llm-search-query" width="600"/>
 
