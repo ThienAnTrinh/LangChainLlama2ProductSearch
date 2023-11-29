@@ -18,16 +18,16 @@ Upon launching, it takes about a minute for the app to load the dependencies.
 
 Once all are succesfully loaded, this is the interface of the app:
 
-<img src="screenshots/llm-search.png" alt="llm-search" width="600"/>
+<img src="screenshots/llm-search.png" alt="llm-search"/>
 
 Type the query in the query box:
 
-<img src="screenshots/llm-search-query.png" alt="llm-search-query" width="600"/>
+<img src="screenshots/llm-search-query.png" alt="llm-search-query"/>
 
 The app will search and return an answer to the user question:
 
-<img src="screenshots/llm-search-response.png" alt="llm-search-response" width="600"/>
+<img src="screenshots/llm-search-response.png" alt="llm-search-response"/>
 
 For reference, the expander contains the retrieved products (with the metadata):
 
-<img src="screenshots/llm-search-retrieved-docs.png" alt="llm-search-retrieved-docs" with="600"/>
+<img src="screenshots/llm-search-retrieved-docs.png" alt="llm-search-retrieved-docs"/>
