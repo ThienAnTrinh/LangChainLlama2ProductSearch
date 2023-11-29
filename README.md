@@ -10,3 +10,24 @@ This project leverages Langchain, (quantized) open-source Llama2 and retrieval-a
 - **Embedding:** [Instruction fine-tuned text embedding](https://huggingface.co/hkunlp/instructor-large), [VectorDB](https://python.langchain.com/docs/integrations/vectorstores/chroma)
 
 The whole process is demonstrated in the repo's jupyter notebook.
+
+## Working App
+The working app was built using Streamlit.
+
+Upon launching, it takes about a minute for the app to load the dependencies.
+
+Once all are succesfully loaded, this is the interface of the app:
+
+<img src="screenshots/llm-search.png" alt="llm-search" width="600"/>
+
+The question box is for user input:
+
+<img src="screenshots/llm-search-query.png" alt="llm-search-query" width="600"/>
+
+The app will search and return an answer to the user question:
+
+<img src="screenshots/llm-search-response.png" alt="llm-search-response" width="600"/>
+
+For reference, the expander contains the retrieved products (with the metadata):
+
+<img src="screenshots/llm-search-retrieved-docs.png" alt="llm-search-retrieved-docs" with="600"/>
